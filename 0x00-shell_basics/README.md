@@ -6,4 +6,5 @@
 -Display current directory contents, long format with user and group IDs displayed numerically and hidden files
 -Create a script that creates a directory
 -Move the file betty
--Remove betty   
+-Remove betty
+-Delete the directory my first directory   
