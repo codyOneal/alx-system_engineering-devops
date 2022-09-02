@@ -7,4 +7,5 @@
 -Create a script that creates a directory
 -Move the file betty
 -Remove betty
--Delete the directory my first directory   
+-Delete the directory my first directory
+-Script that changes the working directory to the previous one   
