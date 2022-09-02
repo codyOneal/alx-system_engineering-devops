@@ -4,4 +4,5 @@
 -Display current directory contents in a long format
 -Display current directory contents, including hidden files using long format
 -Display current directory contents, long format with user and group IDs displayed numerically and hidden files
--Create a script that creates a directory   
+-Create a script that creates a directory
+-Move the file betty   
